@@ -1,4 +1,5 @@
 ### Hi there 👋
+Views Count:   [![HitCount](https://hits.dwyl.com/ISRChary/isrchary.svg?style=flat-square)](http://hits.dwyl.com/ISRChary/isrchary)
 
 <!--
 **ISRChary/isrchary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
